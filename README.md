@@ -26,6 +26,6 @@ My aim is to lead innovative projects and deliver the best services in the IT fi
 
 Feel free to reach out to me if you'd like to connect or discuss potential collaborations!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile) :https://www.linkedin.com/in/hina-humayun-dev/
-- [![Email](https://img.shields.io/badge/Email-Send-brightgreen)](mailto:your-email@gmail.com) : hinahumayun271@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in//hina-humayun-dev/)
+- [![Email](https://img.shields.io/badge/Email-Send-brightgreen)](mailto:hinahumayun271@gmail.com) 
 
