@@ -29,4 +29,5 @@ Feel free to reach out to me if you'd like to connect or discuss potential colla
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in//hina-humayun-dev/)
 - [![Email](https://img.shields.io/badge/Email-Send-brightgreen)](mailto:hinahumayun271@gmail.com) 
+- [![HinaHumayundev's github stats](https://github-readme-stats.vercel.app/api?username=HinaHumayundev&show_icons=true&theme=radical&count_private=true)](https://github.com/HinaHumayundev/)
 
