@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Hina Humayun
+# Greetings from the land of tulips and windmills! 🌷👋 I'm Hina Humayun
 
 
-I am an experienced Software Engineer based in the Netherlands. I have a strong passion for creating innovative solutions and have a proven track record of working in the computer software industry for 4.5 years. I enjoy exploring cutting-edge technologies and welcome new challenges that contribute to my professional development. Throughout my career, I have gained valuable experience by collaborating with international clients and diverse teams. I am well-versed in agile methodologies such as Scrum and proficient in using project management tools like JIRA, Shortcut, and Git. This exposure to various technologies has honed my creative thinking skills and enabled me to find effective solutions to complex problems.
+I am an experienced Software Engineer based in the Netherlands. With a track record of 4.5 years in the computer software industry, I've been waltzing through coding challenges like a pro! I enjoy exploring cutting-edge technologies and welcome new challenges that contribute to my professional development. Working with international clients and diverse teams has been quite the adventure, and I've become a true Agile aficionado, mastering the art of Scrum thus I am well-versed in project management tools like JIRA, Shortcut, and Git. This exposure to various technologies has honed my creative thinking skills and enabled me to find effective solutions to complex problems.
 
 
 ## Skills
