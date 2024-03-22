@@ -7,7 +7,7 @@ I am an experienced Software Engineer based in the Netherlands. With a track rec
 
 ## Skills
 
-- **Languages**: Python, C#,JavaScript, Typescript, C++ SQL
+- **Languages**: Typescript, Python, C#,JavaScript, Typescript, C++ SQL
 - **Front-end**: React, Vue.js, HTML, CSS
 - **Back-end**: FastAPI, Flask, .NET
 - **API Development**: Microservices, Authentication and Authorization, REST APIs
